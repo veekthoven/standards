@@ -6,37 +6,39 @@
                 <div class="mx-auto max-w-3xl py-12">
                     <h1 class="text-5xl font-bold">Find Common Core standards for any lesson, unit, or curriculum plan.</h1>
 
-                    <ul class="mt-10 text-base leading-7 space-y-2">
-                        <li class="flex gap-x-3">
-                            <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="h-7 w-5 flex-none text-purple-700">
-                                <path stroke-linecap="round" stroke-linejoin="round" d="M9 12.75L11.25 15 15 9.75M21 12a9 9 0 11-18 0 9 9 0 0118 0z" />
-                            </svg>
-                            <div>
-                                <p class="font-bold text-xl">Find your standards.</p>
-                                <p class="text-gray-500 text-sm">Browse by grade, subject, and topic.</p>
-                            </div>
-                        </li>
+                    <div class="flex justify-center">
+                        <ul class="mt-10 text-base leading-7 space-y-2 text-center">
+                            <li class="flex gap-x-3">
+                                <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="h-7 w-5 flex-none text-purple-700">
+                                    <path stroke-linecap="round" stroke-linejoin="round" d="M9 12.75L11.25 15 15 9.75M21 12a9 9 0 11-18 0 9 9 0 0118 0z" />
+                                </svg>
+                                <div>
+                                    <p class="font-bold text-xl">Find your standards.</p>
+                                    <p class="text-gray-500 text-sm">Browse by grade, subject, and topic.</p>
+                                </div>
+                            </li>
 
-                        <li class="flex gap-x-3">
-                            <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="h-7 w-5 flex-none text-purple-700">
-                                <path stroke-linecap="round" stroke-linejoin="round" d="M9 12.75L11.25 15 15 9.75M21 12a9 9 0 11-18 0 9 9 0 0118 0z" />
-                            </svg>
-                            <div>
-                                <p class="font-bold text-xl">Copy your standards.</p>
-                                <p class="text-gray-500 text-sm">Copy-paste the standards into your plan.</p>
-                            </div>
-                        </li>
+                            <li class="flex gap-x-3">
+                                <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="h-7 w-5 flex-none text-purple-700">
+                                    <path stroke-linecap="round" stroke-linejoin="round" d="M9 12.75L11.25 15 15 9.75M21 12a9 9 0 11-18 0 9 9 0 0118 0z" />
+                                </svg>
+                                <div>
+                                    <p class="font-bold text-xl">Copy your standards.</p>
+                                    <p class="text-gray-500 text-sm">Copy-paste the standards into your plan.</p>
+                                </div>
+                            </li>
 
-                        <li class="flex gap-x-3">
-                            <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="h-7 w-5 flex-none text-purple-700">
-                                <path stroke-linecap="round" stroke-linejoin="round" d="M9 12.75L11.25 15 15 9.75M21 12a9 9 0 11-18 0 9 9 0 0118 0z" />
-                            </svg>
-                            <div>
-                                <p class="font-bold text-xl">That’s it!</p>
-                                <p class="text-gray-500 text-sm">Your plan is now aligned with Common Core.</p>
-                            </div>
-                        </li>
-                    </ul>
+                            <li class="flex gap-x-3">
+                                <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="h-7 w-5 flex-none text-purple-700">
+                                    <path stroke-linecap="round" stroke-linejoin="round" d="M9 12.75L11.25 15 15 9.75M21 12a9 9 0 11-18 0 9 9 0 0118 0z" />
+                                </svg>
+                                <div>
+                                    <p class="font-bold text-xl">That’s it!</p>
+                                    <p class="text-gray-500 text-sm">Your plan is now aligned with Common Core.</p>
+                                </div>
+                            </li>
+                        </ul>
+                    </div>
 
                     <h1 class="text-2xl font-bold mt-10 mb-3">Click on any subject below to get started</h1>
                     <div class="rounded-md border-2 px-6 pb-6 mb-10">
